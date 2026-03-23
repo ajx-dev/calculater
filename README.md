@@ -122,7 +122,6 @@
     }
   }
 
-  // Hook up button clicks
   buttons.forEach(btn => {
     btn.addEventListener('click', () => {
       const v = btn.dataset.value;
@@ -266,3 +265,4 @@ html,body{
   .display{height:56px;font-size:1.25rem}
   .btn{padding:12px;font-size:1rem}
 }
+//done
