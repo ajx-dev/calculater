@@ -266,4 +266,3 @@ html,body{
   .display{height:56px;font-size:1.25rem}
   .btn{padding:12px;font-size:1rem}
 }
-test
